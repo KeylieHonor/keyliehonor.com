@@ -1,2 +1,0 @@
-# keyliehonor.com
-Personal Blog
