@@ -3408,9 +3408,12 @@ body.mobile-nav-active #mobile-nav-toggle {
  top: 600px;
 }
 
+#down1 {
+padding: 200px;
+}
 
 .object11 {
-width: 900px; 
+width: 300px; 
 height: 340px;
   color: #fff;
   position: relative;
@@ -3480,6 +3483,16 @@ font-size: 13px;
   top: 360px;
   left: 10px;
 }
+.container11 {
+ padding: 20px;
+}
+
+#down1 {
+  padding: 0;
+}
+
+
+}
 
 .buttonsmuted{
   
@@ -3497,8 +3510,4 @@ font-size: 13px;
  position: absolute;
  top: 200px;
 }
-
- }
-
-
 
